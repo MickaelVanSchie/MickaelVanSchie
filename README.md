@@ -7,7 +7,7 @@ When I'm not programming I tend to do one of the following things, not in a part
 - Fiddle around with 3D-printers.
 - Curse at said 3D-printers because the first layer did not stick to the buildplate.
 - Fly with (FPV) drones in epic locations.
-- Repair said drones because I crashed into <insert-solid-object-name-here> going about 1/4th the speed of sound.
+- Repair said drones because I crashed into {insert-solid-object-name-here} going about 1/4th the speed of sound.
 - Explore amazing abandoned locations.
 - Improve my programming skills by learning new frameworks or languages. (Right now I'm diving into C# with the Unity Game Engine)
 

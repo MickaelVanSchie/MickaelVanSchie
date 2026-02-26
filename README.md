@@ -1,6 +1,13 @@
 ### Hello! My name is Mickael 
-I am a tech geek from Holland, at the time of writing this readme I have completed 30 trips around the sun.
-In my spare time I like to fiddle around with 3D-printers and FPV drones or play some games.
+I am a tech geek from Holland, currently I have completed 31 trips around the sun.
+When I'm not programming I tend to do one of the following things, not in a particular order:
+
+- Play some games (My preference for games is broad, I can enjoy a good shooter just as much as a tycoonalike game)
+- Fiddle around with 3D-printers
+- Curse at said 3D-printers because the first layer did not stick to the buildplate.
+- Fly with (FPV) drones in epic locations.
+- Explore amazing abandoned locations.
+- Improve my programming skills by learning new frameworks or languages. (Right now I'm diving into C# with the Unity Game Engine)
 
 ### Tools and skills
 

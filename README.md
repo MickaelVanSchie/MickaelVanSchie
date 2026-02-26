@@ -1,9 +1,10 @@
-### Hello! My name is Mickael 
+### Hello! My name is Mickael
+
 I am a tech geek from Holland, currently I have completed 31 trips around the sun.
 When I'm not programming I tend to do one of the following things, not in a particular order:
 
 - Play some games (My preference for games is broad, I can enjoy a good shooter just as much as a tycoonalike game)
-- Fiddle around with 3D-printers
+- Fiddle around with 3D-printers.
 - Curse at said 3D-printers because the first layer did not stick to the buildplate.
 - Fly with (FPV) drones in epic locations.
 - Explore amazing abandoned locations.

@@ -1,7 +1,7 @@
 ### Hello! My name is Mickael
 
 I am a tech geek from Holland, currently I have completed 31 trips around the sun.
-When I'm not programming I tend to do one of the following things, not in a particular order:
+When I'm not working I tend to do one of the following things, not in a particular order:
 
 - Play some games (My preference for games is broad, I can enjoy a good shooter just as much as a tycoonalike game)
 - Fiddle around with 3D-printers.
